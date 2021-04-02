@@ -1,4 +1,4 @@
-package ai.silot.taurus.example.disbursement;
+package ai.silot.taurus.example;
 
 import ai.silot.taurus.config.Taurus;
 import ai.silot.taurus.model.TaurusBaseVo;
